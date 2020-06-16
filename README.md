@@ -28,7 +28,7 @@
 
   | Program Behavior | Example Behavior | Example Output |
   |---|---|---|
-  | Program will create a "directory" of movies. | "movieList" | "MovieList {movies: Array(0), currentId: 0}" |
+  | Program will create an object called "ticket". | "ticket" | "Ticket {}" |
   |  |  |  |
   |  |  |  |
   |  |  |  |

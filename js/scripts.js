@@ -1,8 +1,6 @@
 // Business Logic:
 
-function MovieList() {
-  this.movies = [];
-  this.currentId = 0;
+function Ticket() {
 }
 
 // End Business Logic
@@ -10,7 +8,7 @@ function MovieList() {
 // UI Logic:
 
 $(document).ready(function() {
-  let movieList = new MovieList();
+  let ticket = new Ticket();
 
 });
 
