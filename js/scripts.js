@@ -16,13 +16,17 @@ function Movie(name, newRelease) {
 // UI Logic:
 
 function newOrOld(title) {
-
+  if (title = "between-worlds") {
+    return true;
+  } else {
+    return false;
+  }
 }
 
 $(document).ready(function() {
   let title = $("select#movie").val();
-  let new = newOrOld(title);
-  let movieName = new Movie(title, new);
+  let newTitle = newOrOld(title);
+  let movieName = new Movie(title, newTitle);
   let ticket = new Ticket();
   let ticketPrice = ();
   let 
