@@ -29,7 +29,7 @@
   | Program Behavior | Example Behavior | Example Output |
   |---|---|---|
   | Program will create an object called "ticket". | "ticket" | "Ticket {}" |
-  |  |  |  |
+  | Program will store multiple price-influencing factors in the object "ticket". | "ticket" | "Ticket {releaseDate: undefined, age: undefined, cageStarring: undefined}" |
   |  |  |  |
   |  |  |  |
   |  |  |  |
