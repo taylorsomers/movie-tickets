@@ -1,6 +1,6 @@
-# [Program Title]
+# Movie Tickets
 
-  ### By [Author(s)]
+  ### By Taylor Somers
 
 ## Description
 
@@ -28,7 +28,7 @@
 
   | Program Behavior | Example Behavior | Example Output |
   |---|---|---|
-  |  |  |  |
+  | Program will create a "directory" of movies. | "movieList" | "MovieList {movies: Array(0), currentId: 0}" |
   |  |  |  |
   |  |  |  |
   |  |  |  |
